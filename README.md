@@ -36,7 +36,7 @@ Pune, India • mrkk7999@gmail.com • (+91) 7709958841 • [LinkedIn](https://w
 - **Technical & Project Management Tools:** Jira, Bitbucket, Confluence, Visual Studio, GoLand, Postman, Slack
 - **Languages:** Fluent in English, Marathi (native); Conversational Proficiency in Hindi
 - **Courses & Certifications:** Scaler Academy (2021-present)
-- **Profiles:** [GitHub](https://github.com/mrkk7999), Scaler Academy, LeetCode
+- **Profiles:** [GitHub](https://github.com/mrkk7999), [Scaler Academy](https://www.scaler.com/academy/profile/0c351ee52018/), [LeetCode](https://leetcode.com/kak7999/)
 
 ## EDUCATION
 
