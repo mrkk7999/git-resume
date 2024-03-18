@@ -4,8 +4,9 @@ Pune, India • mrkk7999@gmail.com • (+91) 7709958841 • [LinkedIn](https://w
 
 ## PROFESSIONAL EXPERIENCE
 
-### COPPERPOD DIGITAL INDIA PVT LTD. Bangalore, (Remote)
-#### Senior Software Engineer | Nov 2022 - Present
+<details>
+<summary><b>COPPERPOD DIGITAL INDIA PVT LTD. Bangalore, (Remote)</b> | Senior Software Engineer | Nov 2022 - Present</summary>
+
 - Built & launched innovative solutions for fintech.
 - Led redesign of customer onboarding, OTP, and report generation service.
 - Promoted to service owner within 6 months due to optimization impact (3 months ahead of schedule).
@@ -17,8 +18,11 @@ Pune, India • mrkk7999@gmail.com • (+91) 7709958841 • [LinkedIn](https://w
 - Played a key role in PR review and approvals, as well as in the preparation and modification of API documentation for newly developed and modified APIs.
 - Improved code coverage across diverse services, achieving a minimum of 80% coverage to enhance overall reliability.
 
-### INSPIRON LABS Bangalore, (Remote)
-#### Backend Developer | Sep 2021 - Nov 2022
+</details>
+
+<details>
+<summary><b>INSPIRON LABS Bangalore, (Remote)</b> | Backend Developer | Sep 2021 - Nov 2022</summary>
+
 - Successfully contributed to the development of a Zero Trust Enterprise Security Solution, demonstrating expertise in security project development.
 - Implemented Single Sign-On (SSO) using SAML and IDP-Proxy module, enhancing security measures.
 - Successfully handled profile authentication and authorization, ensuring secure access to sensitive information.
@@ -26,9 +30,14 @@ Pune, India • mrkk7999@gmail.com • (+91) 7709958841 • [LinkedIn](https://w
 - Demonstrated proficiency in understanding requirements from assigned stories and translating them into web APIs.
 - Conducted thorough unit and table testing post-development, ensuring the robustness of developed solutions.
 
-### INFOSYS LTD Pune, (Remote)
-#### Software Developer | Jan 2021 - Jan 2021
+</details>
+
+<details>
+<summary><b>INFOSYS LTD Pune, (Remote)</b> | Software Developer | Jan 2021 - Jan 2021</summary>
+
 - Underwent extensive training, acquiring technical proficiency in GoLang, DBMS, and acquiring soft skills & skills at the workplace.
+
+</details>
 
 ## SKILLS & ADDITIONAL INFO
 
@@ -36,7 +45,7 @@ Pune, India • mrkk7999@gmail.com • (+91) 7709958841 • [LinkedIn](https://w
 - **Technical & Project Management Tools:** Jira, Bitbucket, Confluence, Visual Studio, GoLand, Postman, Slack
 - **Languages:** Fluent in English, Marathi (native); Conversational Proficiency in Hindi
 - **Courses & Certifications:** Scaler Academy (2021-present)
-- **Profiles:** [GitHub](https://github.com/mrkk7999), [Scaler Academy](https://www.scaler.com/academy/profile/0c351ee52018/), [LeetCode](https://leetcode.com/kak7999/)
+- **Profiles:** [GitHub](https://github.com/mrkk7999), Scaler Academy, LeetCode
 
 ## EDUCATION
 
