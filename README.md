@@ -1,4 +1,4 @@
-# [KIRAN KSHIRSAGAR]
+# KIRAN KSHIRSAGAR
 
 Pune, India • mrkk7999@gmail.com • (+91) 7709958841 • [LinkedIn](https://www.linkedin.com/in/mrkk7999) [![Download Resume pdf](https://img.shields.io/badge/Download-Resume-brightgreen)](https://drive.google.com/file/d/1eUuNrXi4i77TZUfZ7GidwqNGrtHFhYHl/view?usp=sharing)
 
